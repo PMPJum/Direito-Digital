@@ -9,6 +9,6 @@
 **5) Direito ao sigilo**  
   Direito da proteção a intimidade da pessoa, informações sensíveis que não devem ser divulgadas.  
 **6) Direito de igualdade**  
-  Direito ao igual tratamento entre pessoas.
+  Direito ao igual tratamento entre pessoas.  
 **7) Direito à segurança**  
   Direito da proteção e integridade física da pessoa perante o uso de produtos e serviços.
