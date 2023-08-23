@@ -1,4 +1,4 @@
-**1) Direito à privacidade**;
+**1) Direito à privacidade**  
   É o direito de proteção as vidas privadas das pessoas, este direito garante a secrecidade de informações pessoais.
 **2) Direito de imagem e honra**
   Direito que protege a reputação e o uso da imagem da pessoa.
