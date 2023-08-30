@@ -13,3 +13,5 @@ Empresas digitais funcionam ao integrar tecnologia em todas as operações, desd
 
 **Desafios?**  
 As empresas digitais enfrentam desafios como segurança cibernética, mudança cultural, gestão de dados, custos, desigualdade digital, concorrência intensa e privacidade. A rápida evolução tecnológica, a conformidade regulatória, a dependência de tecnologia e as mudanças no comportamento do cliente também são obstáculos. Lidar com esses desafios exige adaptação ágil, estratégias robustas e uma abordagem constante de aprendizado.
+
+**O que se precisa para abrir uma?**
