@@ -12,3 +12,5 @@
   Direito ao igual tratamento entre pessoas.  
 **7) Direito à segurança**  
   Direito da proteção e integridade física da pessoa perante o uso de produtos e serviços.
+
+  todo:outsourcing
