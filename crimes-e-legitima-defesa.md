@@ -1,2 +1,4 @@
 **Crimes Digitais:**  
-teste
+Crimes eletrônicos são atividades criminosas que envolvem o uso de computadores e redes digitais. No Brasil, várias leis tratam desses crimes, incluindo a Lei Carolina Dieckmann (Lei Nº 12.737/2012), o Marco Civil da Internet (Lei Nº 12.965/2014), o Código Penal Brasileiro e a Lei de Direitos Autorais. Essas leis abrangem uma variedade de delitos, como hacking, phishing, fraude online, roubo de identidade e difamação online.
+**A Legítima Defesa na Internet**  
+A legítima defesa na internet refere-se ao direito de proteger-se contra ameaças, ataques cibernéticos e violações de privacidade online, desde que as ações estejam de acordo com a legislação e os termos de uso das plataformas online. Isso inclui a proteção contra ataques cibernéticos, a defesa da privacidade e a resposta a difamação ou assédio online, dentro dos limites legais e éticos.
