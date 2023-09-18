@@ -12,6 +12,6 @@ Assédio online: Comportamento prejudicial ou ameaçador realizado online, como 
 
 Difamação e calúnia online: Publicação de informações falsas ou prejudiciais sobre uma pessoa ou organização na internet.  
 
-Distribuição de conteúdo ilegal: Compartilhamento de material ilegal, como pornografia infantil, pirataria de filmes e músicas, e outros conteúdos protegidos por direitos autorais.
+Distribuição de conteúdo ilegal: Compartilhamento de material ilegal, como pornografia infantil, pirataria de filmes e músicas, e outros conteúdos protegidos por direitos autorais.  
 **A Legítima Defesa na Internet**  
 A legítima defesa na internet refere-se ao direito de proteger-se contra ameaças, ataques cibernéticos e violações de privacidade online, desde que as ações estejam de acordo com a legislação e os termos de uso das plataformas online. Isso inclui a proteção contra ataques cibernéticos, a defesa da privacidade e a resposta a difamação ou assédio online, dentro dos limites legais e éticos.
