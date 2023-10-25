@@ -1,7 +1,7 @@
 **Python, com Django, Bootstrap**  
 Vefificar se as bibliotecas, frameworks e templates usados tem alguma licença necessária para o uso comercial.  
 **Proteção de Dados Pessoais**  
-Certificar se esta em conformidade com regulamentações de proteção de dados, como a LGPD no Brasil. Isso inclui o consentimento apropriado para a coleta e o processamento de dados pessoais.  
+Certificar se esta em conformidade com regulamentações de proteção de dados, como a LGPD. Isso inclui o consentimento apropriado para a coleta e o processamento de dados pessoais.  
 **Cadastro de Usuário**  
 Informações como a de cartões para o pagamento da mensalidade e senhas de registro do forum devem ser guardadas, um tipo de criptografia deve ser usado.  
 **Política de Privacidade e Termos de Uso**  
